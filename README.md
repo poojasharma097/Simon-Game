@@ -4,7 +4,7 @@ A game of short term memory skill made with Flutter in which player must repeat 
 
 ## Screenshots
 
-<img src="/images/Screen 1.jpeg?raw=true" width="320" height="600"> | <img src="/images/Screen 2.jpeg?raw=true" width="320" height="600">  |  <img src="/images/Screen 3.jpeg?raw=true" width="320" height="600">
+<img src="/images/Screen 1.jpeg?raw=true" width="300" height="600"> | <img src="/images/Screen 2.jpeg?raw=true" width="300" height="600">  |  <img src="/images/Screen 3.jpeg?raw=true" width="300" height="600">
 
 ## Getting Started
 
