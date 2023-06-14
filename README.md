@@ -1,6 +1,10 @@
-# simon_game
+# Simon Game
 
-A new Flutter project.
+A game of short term memory skill made with Flutter in which player must repeat random sequences of flashing lights by pressing the colored pads in the correct order. To play the game, player needs to remember the color pattern and repeat it by pressing the colored buttons on the screen in the correct order. It starts off at a nice steady pace, but the more you play, the more complicated the patterns become, building suspense with each turn.
+
+## Screenshots
+
+<!-- <img src="/Calculator.jpeg?raw=true" width="500" height="800"> -->
 
 ## Getting Started
 
